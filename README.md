@@ -1,4 +1,4 @@
-mr_goldfinger
+Mr Goldfinger
 =============
 
-everything related to our laser cutter Mr Goldfinger (LAOS board)
+Hier gibt´s alles zu unserem Lasercutter Mr Goldfinger. Ausführliche Beschreibung folgt...
